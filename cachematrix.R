@@ -1,4 +1,8 @@
-
+#utilized examples from previous students to solve this one.
+#it would be nice if what we went over in lecture had any correlation to homework ;)
+#sources:
+#http://stackoverflow.com/questions/23796316/returning-the-inverse-matrix-from-a-cached-object-in-r
+#https://github.com/sefakilic/coursera-rprog-assignment2/blob/master/cachematrix.R
 
 makeCacheMatrix <- function(x = matrix()) 
   {
